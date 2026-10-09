@@ -1,0 +1,2 @@
+c083087ea69beaaca6bdf6e9189199929a054822779277c5d7ea9f5b64159c41  ios-arm64/Libbox.framework/Libbox
+6545faa043895570a9910c073d7b79cc37ed53bdf8e6204ea800dcf2303de822  ios-arm64_x86_64-simulator/Libbox.framework/Libbox
