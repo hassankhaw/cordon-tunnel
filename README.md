@@ -1,16 +1,16 @@
-# veil-tunnel
+# cordon-tunnel
 
-GPL-3.0 source for the **VeilTunnel** packet-tunnel extension of
-[Veil](https://github.com/hkhawaja/veil) — a rule-based proxy utility for
+GPL-3.0 source for the **CordonTunnel** packet-tunnel extension of
+[Cordon](https://github.com/hassankhaw/cordon) — a rule-based proxy utility for
 iPhone and iPad. This repository exists to satisfy the obligations of the
-GNU General Public License, Version 3, for the GPL-covered components Veil
+GNU General Public License, Version 3, for the GPL-covered components Cordon
 distributes (see `NOTICE.md`).
 
 ## What is covered
 
-The VeilTunnel extension (the NetworkExtension packet-tunnel provider that
+The CordonTunnel extension (the NetworkExtension packet-tunnel provider that
 embeds the [sing-box](https://github.com/SagerNet/sing-box) engine via
-`Libbox.xcframework`) is GPL-3.0. The Veil main application is a separate
+`Libbox.xcframework`) is GPL-3.0. The Cordon main application is a separate
 process that communicates with the extension through standard system
 interfaces and is **not** covered by this repository.
 
@@ -36,5 +36,5 @@ recipe produced on Apple Silicon (macOS 26, Xcode 27).
 
 This code is licensed GPL-3.0-or-later (see `LICENSE`). sing-box is
 Copyright SagerNet Inc. and licensed GPL-3.0 with an additional name-attribution
-clause; we do not use the sing-box name or branding in Veil's marketing, and
+clause; we do not use the sing-box name or branding in Cordon's marketing, and
 we ship factual attribution in the app's Acknowledgements screen.

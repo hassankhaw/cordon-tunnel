@@ -1,4 +1,4 @@
-# NOTICE — Third-party components in Veil's tunnel extension
+# NOTICE — Third-party components in Cordon's tunnel extension
 
 ## sing-box
 - **Copyright:** SagerNet Inc.
@@ -18,11 +18,11 @@ wireguard-go, tailscale, and others — see sing-box `go.mod` at the pinned
 commit) are compiled into the framework. Their license obligations are
 satisfied by the pinned, reproducible source build in this repository.
 
-## VeilTunnel extension code
-Copyright the Veil authors. License: GPL-3.0-or-later.
+## CordonTunnel extension code
+Copyright the Cordon authors. License: GPL-3.0-or-later.
 
 ## Not covered by this repository
-The Veil main application (UI, rule editor, onboarding, diagnostics) is a
+The Cordon main application (UI, rule editor, onboarding, diagnostics) is a
 separate process, distributed under a proprietary license, and communicates
 with the extension exclusively through the standard NetworkExtension
 provider-configuration mechanism (data, not linked code).

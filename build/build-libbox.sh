@@ -1,5 +1,5 @@
 #!/bin/bash
-# Reproducible Libbox.xcframework build for Veil's GPL compliance (see NOTICE.md).
+# Reproducible Libbox.xcframework build for Cordon's GPL compliance (see NOTICE.md).
 # Usage: ./build-libbox.sh [WORKDIR]   (default: ~/Projects/third_party)
 set -euo pipefail
 
